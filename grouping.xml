@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master">
+<groups>
+    <run>
+        <include name="DDT"/>
+        <include name="Sanity"/>
+<!--        <include name="Master"/>-->
+    </run>
+</groups>
+    <listeners>
+        <listener class-name="Utils.ExtentReportManager"/>
+    </listeners>
+    <test thread-count="5" name="Test">
+        <classes>
+            <class name="Tests.LoginDDT"/>
+            <class name="Tests.RegistrationDDT"/>
+            <class name="Tests.TC002LoginPageTest"/>
+        </classes>
+    </test>
+</suite>

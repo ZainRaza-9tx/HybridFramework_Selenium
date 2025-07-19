@@ -1,0 +1,35 @@
+00:41:22.575 [main] INFO  BaseforTest.BaseTest.BaseClass(BaseTest.java:40)oggger - Starting Chrome Browser
+00:41:24.824 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:25.216 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:25.233 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:26.833 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:70)oggger - Finished TC003LoginDDT
+00:41:26.847 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:27.201 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:27.201 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:28.617 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:70)oggger - Finished TC003LoginDDT
+00:41:28.619 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:28.978 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:28.979 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:30.120 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:30.467 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:30.468 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:31.615 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:70)oggger - Finished TC003LoginDDT
+00:41:31.616 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:32.000 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:32.001 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:33.551 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:27)oggger - TC003LoginDDT  Started
+00:41:33.853 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:36)oggger - opening login page
+00:41:33.853 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:41)oggger - adding valid login credentials
+00:41:34.984 [main] INFO  Tests.LoginDDT.loginTest_DDT(LoginDDT.java:70)oggger - Finished TC003LoginDDT
+00:41:36.751 [main] INFO  BaseforTest.BaseTest.BaseClass(BaseTest.java:40)oggger - Starting Chrome Browser
+00:41:38.175 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:19)oggger - TC_002_AccountRegistrationTest Starting 
+00:41:38.252 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:25)oggger - Clicked on MyAccount  link
+00:41:38.767 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:28)oggger - Clicked on Register link
+00:41:38.769 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:31)oggger - providing cust details
+00:41:40.152 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:44)oggger - Validating expected message
+00:41:40.202 [main] INFO  Tests.RegistrationDDT.verify_account_registration(RegistrationDDT.java:61)oggger - TC_002_AccountRegistrationTest Finished 
+00:41:41.874 [main] INFO  BaseforTest.BaseTest.BaseClass(BaseTest.java:40)oggger - Starting Chrome Browser
+00:41:43.167 [main] INFO  Tests.TC002LoginPageTest.Loginpagetest(TC002LoginPageTest.java:18)oggger - Starting TC002LoginPageTest
+00:41:43.544 [main] INFO  Tests.TC002LoginPageTest.Loginpagetest(TC002LoginPageTest.java:28)oggger - opening login page
+00:41:43.544 [main] INFO  Tests.TC002LoginPageTest.Loginpagetest(TC002LoginPageTest.java:32)oggger - adding valid login credentials
+00:41:44.584 [main] INFO  Tests.TC002LoginPageTest.Loginpagetest(TC002LoginPageTest.java:42)oggger - Finished TC002LoginPageTest
